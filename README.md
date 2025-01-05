@@ -1,5 +1,5 @@
 - Eldar Dael Gonzalez Avendaño
-- Meta Backend Course
+
 
 <!---
 EldarTechWizard/EldarTechWizard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
