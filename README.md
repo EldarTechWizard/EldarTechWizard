@@ -1,3 +1,2 @@
-Soy Eldar Gonzalez, desarrollador de software con experiencia en backend y frontend, usando tecnologías como Python, JavaScript, Django, Flask, React y C#. Me enfoco en crear soluciones funcionales y eficientes, aplicando metodologías ágiles como TDD, Scrumban y CI/CD. En mi perfil encontrarás proyectos como un sistema de ventas con IA, una plataforma para gestión de mascotas y aplicaciones web con Django y React.
-
+Soy Eldar Gonzalez, desarrollador de software con experiencia en backend y frontend, usando tecnologías como Python, JavaScript, Django, Flask, React y C#. Me enfoco en crear soluciones funcionales y eficientes, aplicando metodologías ágiles como TDD, Scrumban y CI/CD. En mi perfil encontrarás proyectos como un sistema de ventas con IA, una plataforma para gestión de mascotas y un sistema multiplataforma para gestion medica. 
 ¡Gracias por visitar mi perfil! 😎
